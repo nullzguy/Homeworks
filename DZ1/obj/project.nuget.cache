@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0Mub/v0hwA=",
+  "success": true,
+  "projectFilePath": "/home/ks/RiderProjects/DZ1/DZ1.csproj",
+  "expectedPackageFiles": [
+    "/home/ks/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
