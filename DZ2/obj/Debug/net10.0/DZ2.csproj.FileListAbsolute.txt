@@ -1,0 +1,14 @@
+/home/nullz/Projects/Homeworks-main/DZ2/bin/Debug/net10.0/DZ2
+/home/nullz/Projects/Homeworks-main/DZ2/bin/Debug/net10.0/DZ2.deps.json
+/home/nullz/Projects/Homeworks-main/DZ2/bin/Debug/net10.0/DZ2.runtimeconfig.json
+/home/nullz/Projects/Homeworks-main/DZ2/bin/Debug/net10.0/DZ2.dll
+/home/nullz/Projects/Homeworks-main/DZ2/bin/Debug/net10.0/DZ2.pdb
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.AssemblyInfoInputs.cache
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.AssemblyInfo.cs
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.csproj.CoreCompileInputs.cache
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.dll
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/refint/DZ2.dll
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.pdb
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/DZ2.genruntimeconfig.cache
+/home/nullz/Projects/Homeworks-main/DZ2/obj/Debug/net10.0/ref/DZ2.dll
